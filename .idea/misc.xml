@@ -3,7 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.4046153846153846" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/drawable/background_button_filled.xml" value="0.26282894736842105" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/drawable/background_button_outline.xml" value="0.15526315789473685" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/drawable/gradiant_background.xml" value="0.24375" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.4046153846153846" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/drawable/my_button_bg.xml" value="0.15526315789473685" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/drawable/round_corner_register.xml" value="0.15526315789473685" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/font/aclonica.xml" value="0.16414473684210526" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/font/comfortaa.xml" value="0.16414473684210526" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/font/comfortaa_bold.xml" value="0.16414473684210526" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/layout/activity_first_time.xml" value="0.264" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/layout/activity_main.xml" value="0.3859375" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/layout/activity_register.xml" value="0.152" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/layout/activity_reset_password.xml" value="0.25263157894736843" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/layout/activity_start.xml" value="0.2" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24375" />
+        <entry key="..\:/application/projetSoft/MyNewApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4046153846153846" />
       </map>
     </option>
   </component>

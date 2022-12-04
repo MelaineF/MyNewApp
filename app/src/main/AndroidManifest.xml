@@ -5,12 +5,30 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name_maj"
+        android:roundIcon="@mipmap/ic_launcher_foreground"
         android:supportsRtl="true"
+        android:name="androidx.multidex.MultiDexApplication"
         android:theme="@style/Theme.MyNewApp">
         <activity
+            android:name=".userStart.LoginActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".userStart.ResetPasswordActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".userStart.RegisterActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:exported="true"/>
+        <activity
+            android:name=".userStart.StartActivity"
+            android:screenOrientation="portrait"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,6 +36,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>
