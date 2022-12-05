@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "379195267504",
+    "firebase_url": "https://mynewapp-65adc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mynewapp-65adc",
+    "storage_bucket": "mynewapp-65adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379195267504:android:0d93e9d455600b36395e75",
+        "android_client_info": {
+          "package_name": "fr.favennec.mynewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379195267504-9et43ndnt78vn5es7qtqliod7p89r2pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqtjLVLLkcUuwXqp_TTvcFTzQAycHjUtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379195267504-9et43ndnt78vn5es7qtqliod7p89r2pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

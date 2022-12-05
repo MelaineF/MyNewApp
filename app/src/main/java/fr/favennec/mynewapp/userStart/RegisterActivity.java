@@ -113,11 +113,8 @@ public class RegisterActivity extends AppCompatActivity {
 
                     } else {
 
-                        //register(str_username,  str_fullname, str_email, str_password);
-                        FirebaseDatabase database = FirebaseDatabase.getInstance();
-                        DatabaseReference myRef = database.getReference("message");
-                        pd.dismiss();
-                        myRef.setValue("Hello, World!");
+                        register(str_username,  str_fullname, str_email, str_password);
+
 
                     }
 
